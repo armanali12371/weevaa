@@ -10,7 +10,7 @@
                             <h4 class="text-light text-uppercase mb-2">Contact :</h4>
                             <p>Phone : +91 97110 00152</p>
                             <p>Email :
-                                <a href="mailto:info@example.com">arman@gmail.com</a>
+                                <a href="mailto:info@example.com">info@weevaa.com</a>
                             </p>
                         </div>
                     </div>

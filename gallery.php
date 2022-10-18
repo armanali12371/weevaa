@@ -170,6 +170,5 @@
 			</div>
 		</div>
 	</div>
-	<!-- //gallery -->
 
 	<?php include('footer.php'); ?>
