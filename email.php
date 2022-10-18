@@ -12,7 +12,6 @@ if ($email1 == '') {
    echo 'Pls fill email id';
    die();
 }
-echo $email1;
 $email = new \SendGrid\Mail\Mail();
 $email->setFrom("johncool12371@gmail.com", $name);
 $email->setSubject("Weeva - Contact us");
