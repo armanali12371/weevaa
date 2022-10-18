@@ -73,17 +73,20 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                                 <i class="fa fa-angle-down" aria-hidden="true"></i>
                             </a>
                             <div class="dropdown-menu second mt-2" style="display: none;">
-                                <a class="dropdown-item scroll" href="product.php/#Menswear">Menswear</a>
-                                <a class="dropdown-item scroll" href="product.php/#Womenswear">Womenswear</a>
-                                <a class="dropdown-item scroll" href="product.php/#Kidswear">Kidswear</a>
-                                <a class="dropdown-item scroll" href="product.php/#Uniforms">Uniforms</a>
-                                <a class="dropdown-item scroll" href="product.php/#home">Home Furnishing</a>
-                                <a class="dropdown-item scroll" href="product.php/#Accessories">Accessories</a>
-                                <a class="dropdown-item scroll" href="product.php/#Leather">Leather</a>
-                                <a class="dropdown-item scroll" href="product.php/#Shoe">Shoes (Mens, Womens & Kids)</a>
-                                <a class="dropdown-item scroll" href="product.php/#Handicrafts">Handicrafts Products</a>
-                                <a class="dropdown-item scroll" href="product.php/#Fabric">Fabric</a>
-                                <a class="dropdown-item scroll" href="product.php/#Bags">Bags, Suitcases & Luggage</a>
+                                <a class="dropdown-item" href="product.php">Menswear</a>
+                                <a class="dropdown-item " href="product.php">Womenswear</a>
+                                <a class="dropdown-item " href="product.php">Kidswear</a>
+                                <a class="dropdown-item " href="product.php">Uniforms</a>
+                                <a class="dropdown-item " href="product.php">Home Furnishing</a>
+                                <a class="dropdown-item " href="product.php">Accessories</a>
+                                <a class="dropdown-item " href="product.php">Leather</a>
+                                <a class="dropdown-item " href="product.php">Shoes (Mens, Womens &
+                                    Kids)</a>
+                                <a class="dropdown-item " href="product.php">Handicrafts
+                                    Products</a>
+                                <a class="dropdown-item " href="product.php">Fabric</a>
+                                <a class="dropdown-item" href="product.php">Bags, Suitcases &
+                                    Luggage</a>
                             </div>
                         </li>
                         <li>
