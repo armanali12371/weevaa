@@ -27,106 +27,63 @@
 				<div class="col-md-4 col-sm-6 gallery-agile-grids">
 					<div class="portfolio-hover">
 						<a href="images/g7.jpg" data-lightbox="example-set" data-title="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor magna aliqua.">
-							<img src="images/catalog/WVJ0004-1.jpg" class="img-fluid zoom-img" alt="" />
+							<img src="images/Catalog/WVJ0004-1.jpg" class="img-fluid zoom-img" alt="" />
 						</a>
 					</div>
 				</div>
 				<div class="col-md-4 col-sm-6 gallery-agile-grids mt-sm-0 mt-4">
 					<div class="portfolio-hover">
 						<a href="images/g2.jpg" data-lightbox="example-set" data-title="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor magna aliqua.">
-							<img src="images/catalog/WVJ0004-2.jpg" class="img-fluid zoom-img" alt="" />
+							<img src="images/Catalog/WVJ0004-2.jpg" class="img-fluid zoom-img" alt="" />
 						</a>
 					</div>
 				</div>
 				<div class="col-md-4 col-sm-6 gallery-agile-grids mt-md-0 mt-4">
 					<div class="portfolio-hover">
 						<a href="images/g3.jpg" data-lightbox="example-set" data-title="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor magna aliqua.">
-							<img src="images/catalog/WVJ-0004-3.jpg" class="img-fluid zoom-img" alt="" />
+							<img src="images/Catalog/WVJ-0004-3.jpg" class="img-fluid zoom-img" alt="" />
 						</a>
 					</div>
 				</div>
 				<div class="col-md-4 col-sm-6 gallery-agile-grids my-4">
 					<div class="portfolio-hover">
 						<a href="images/g4.jpg" data-lightbox="example-set" data-title="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor magna aliqua.">
-							<img src="images/catalog/WVJ-0004-4.jpg" class="img-fluid zoom-img" alt="" />
+							<img src="images/Catalog/WVJ-0004-4.jpg" class="img-fluid zoom-img" alt="" />
 						</a>
 					</div>
 				</div>
 				<div class="col-md-4 col-sm-6 gallery-agile-grids my-md-4">
 					<div class="portfolio-hover">
 						<a href="images/g5.jpg" data-lightbox="example-set" data-title="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor magna aliqua.">
-							<img src="images/catalog/WVJ-0004-5.jpg" class="img-fluid zoom-img" alt="" />
+							<img src="images/Catalog/WVJ-0004-5.jpg" class="img-fluid zoom-img" alt="" />
 						</a>
 					</div>
 				</div>
 				<div class="col-md-4 col-sm-6 gallery-agile-grids my-md-4 mt-sm-0 mt-4">
 					<div class="portfolio-hover">
 						<a href="images/g6.jpg" data-lightbox="example-set" data-title="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor magna aliqua.">
-							<img src="images/catalog/WVT0003-1.jpg" class="img-fluid zoom-img" alt="" />
+							<img src="images/Catalog/WVT0003-1.jpg" class="img-fluid zoom-img" alt="" />
 						</a>
 					</div>
 				</div>
 				<div class="col-md-4 col-sm-6 gallery-agile-grids mt-md-0 mt-4">
 					<div class="portfolio-hover">
 						<a href="images/g1.jpg" data-lightbox="example-set" data-title="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor magna aliqua.">
-							<img src="images/catalog/WVT0003-2.jpg" class="img-fluid zoom-img" alt="" />
+							<img src="images/Catalog/WVT0003-2.jpg" class="img-fluid zoom-img" alt="" />
 						</a>
 					</div>
 				</div>
 				<div class="col-md-4 col-sm-6 gallery-agile-grids mt-md-0 mt-4">
 					<div class="portfolio-hover">
 						<a href="images/g8.jpg" data-lightbox="example-set" data-title="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor magna aliqua.">
-							<img src="images/catalog/WVT0003-3.jpg" class="img-fluid zoom-img" alt="" />
+							<img src="images/Catalog/WVT0003-3.jpg" class="img-fluid zoom-img" alt="" />
 						</a>
 					</div>
 				</div>
 				<div class="col-md-4 col-sm-6 gallery-agile-grids mt-md-0 mt-4">
 					<div class="portfolio-hover">
 						<a href="images/g9.jpg" data-lightbox="example-set" data-title="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor magna aliqua.">
-							<img src="images/catalog/WVT0003-4.jpg" class="img-fluid zoom-img" alt="" />
-						</a>
-					</div>
-				</div>
-
-				<div class="col-md-4 col-sm-6 gallery-agile-grids mt-md-0 mt-4">
-					<div class="portfolio-hover">
-						<a href="images/g9.jpg" data-lightbox="example-set" data-title="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor magna aliqua.">
-							<img src="images/catalog/WVT0003-5.jpg" class="img-fluid zoom-img" alt="" />
-						</a>
-					</div>
-				</div>
-				<div class="col-md-4 col-sm-6 gallery-agile-grids mt-md-0 mt-4">
-					<div class="portfolio-hover">
-						<a href="images/g9.jpg" data-lightbox="example-set" data-title="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor magna aliqua.">
-							<img src="images/catalog/WVW0001-1.jpg" class="img-fluid zoom-img" alt="" />
-						</a>
-					</div>
-				</div>
-				<div class="col-md-4 col-sm-6 gallery-agile-grids mt-md-0 mt-4">
-					<div class="portfolio-hover">
-						<a href="images/g9.jpg" data-lightbox="example-set" data-title="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor magna aliqua.">
-							<img src="images/catalog/WVW0001-2.jpg" class="img-fluid zoom-img" alt="" />
-						</a>
-					</div>
-				</div>
-				<div class="col-md-4 col-sm-6 gallery-agile-grids mt-md-0 mt-4">
-					<div class="portfolio-hover">
-						<a href="images/g9.jpg" data-lightbox="example-set" data-title="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor magna aliqua.">
-							<img src="images/catalog/WVW0001-3.jpg" class="img-fluid zoom-img" alt="" />
-						</a>
-					</div>
-				</div>
-				<div class="col-md-4 col-sm-6 gallery-agile-grids mt-md-0 mt-4">
-					<div class="portfolio-hover">
-						<a href="images/g9.jpg" data-lightbox="example-set" data-title="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor magna aliqua.">
-							<img src="images/catalog/WVW0001-4.jpg" class="img-fluid zoom-img" alt="" />
-						</a>
-					</div>
-				</div>
-				<div class="col-md-4 col-sm-6 gallery-agile-grids mt-md-0 mt-4">
-					<div class="portfolio-hover">
-						<a href="images/g9.jpg" data-lightbox="example-set" data-title="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor magna aliqua.">
-							<img src="images/catalog/WVW0001-5.jpg" class="img-fluid zoom-img" alt="" />
+							<img src="images/Catalog/WVT0003-4.jpg" class="img-fluid zoom-img" alt="" />
 						</a>
 					</div>
 				</div>
@@ -134,35 +91,78 @@
 				<div class="col-md-4 col-sm-6 gallery-agile-grids mt-md-0 mt-4">
 					<div class="portfolio-hover">
 						<a href="images/g9.jpg" data-lightbox="example-set" data-title="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor magna aliqua.">
-							<img src="images/catalog/WVW0002-1.jpg" class="img-fluid zoom-img" alt="" />
+							<img src="images/Catalog/WVT0003-5.jpg" class="img-fluid zoom-img" alt="" />
 						</a>
 					</div>
 				</div>
 				<div class="col-md-4 col-sm-6 gallery-agile-grids mt-md-0 mt-4">
 					<div class="portfolio-hover">
 						<a href="images/g9.jpg" data-lightbox="example-set" data-title="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor magna aliqua.">
-							<img src="images/catalog/WVW0002-2.jpg" class="img-fluid zoom-img" alt="" />
+							<img src="images/Catalog/WVW0001-1.jpg" class="img-fluid zoom-img" alt="" />
 						</a>
 					</div>
 				</div>
 				<div class="col-md-4 col-sm-6 gallery-agile-grids mt-md-0 mt-4">
 					<div class="portfolio-hover">
 						<a href="images/g9.jpg" data-lightbox="example-set" data-title="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor magna aliqua.">
-							<img src="images/catalog/WVW0002-3.jpg" class="img-fluid zoom-img" alt="" />
+							<img src="images/Catalog/WVW0001-2.jpg" class="img-fluid zoom-img" alt="" />
 						</a>
 					</div>
 				</div>
 				<div class="col-md-4 col-sm-6 gallery-agile-grids mt-md-0 mt-4">
 					<div class="portfolio-hover">
 						<a href="images/g9.jpg" data-lightbox="example-set" data-title="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor magna aliqua.">
-							<img src="images/catalog/WVW0002-4.jpg" class="img-fluid zoom-img" alt="" />
+							<img src="images/Catalog/WVW0001-3.jpg" class="img-fluid zoom-img" alt="" />
 						</a>
 					</div>
 				</div>
 				<div class="col-md-4 col-sm-6 gallery-agile-grids mt-md-0 mt-4">
 					<div class="portfolio-hover">
 						<a href="images/g9.jpg" data-lightbox="example-set" data-title="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor magna aliqua.">
-							<img src="images/catalog/WVW0002-5.jpg" class="img-fluid zoom-img" alt="" />
+							<img src="images/Catalog/WVW0001-4.jpg" class="img-fluid zoom-img" alt="" />
+						</a>
+					</div>
+				</div>
+				<div class="col-md-4 col-sm-6 gallery-agile-grids mt-md-0 mt-4">
+					<div class="portfolio-hover">
+						<a href="images/g9.jpg" data-lightbox="example-set" data-title="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor magna aliqua.">
+							<img src="images/Catalog/WVW0001-5.jpg" class="img-fluid zoom-img" alt="" />
+						</a>
+					</div>
+				</div>
+
+				<div class="col-md-4 col-sm-6 gallery-agile-grids mt-md-0 mt-4">
+					<div class="portfolio-hover">
+						<a href="images/g9.jpg" data-lightbox="example-set" data-title="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor magna aliqua.">
+							<img src="images/Catalog/WVW0002-1.jpg" class="img-fluid zoom-img" alt="" />
+						</a>
+					</div>
+				</div>
+				<div class="col-md-4 col-sm-6 gallery-agile-grids mt-md-0 mt-4">
+					<div class="portfolio-hover">
+						<a href="images/g9.jpg" data-lightbox="example-set" data-title="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor magna aliqua.">
+							<img src="images/Catalog/WVW0002-2.jpg" class="img-fluid zoom-img" alt="" />
+						</a>
+					</div>
+				</div>
+				<div class="col-md-4 col-sm-6 gallery-agile-grids mt-md-0 mt-4">
+					<div class="portfolio-hover">
+						<a href="images/g9.jpg" data-lightbox="example-set" data-title="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor magna aliqua.">
+							<img src="images/Catalog/WVW0002-3.jpg" class="img-fluid zoom-img" alt="" />
+						</a>
+					</div>
+				</div>
+				<div class="col-md-4 col-sm-6 gallery-agile-grids mt-md-0 mt-4">
+					<div class="portfolio-hover">
+						<a href="images/g9.jpg" data-lightbox="example-set" data-title="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor magna aliqua.">
+							<img src="images/Catalog/WVW0002-4.jpg" class="img-fluid zoom-img" alt="" />
+						</a>
+					</div>
+				</div>
+				<div class="col-md-4 col-sm-6 gallery-agile-grids mt-md-0 mt-4">
+					<div class="portfolio-hover">
+						<a href="images/g9.jpg" data-lightbox="example-set" data-title="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor magna aliqua.">
+							<img src="images/Catalog/WVW0002-5.jpg" class="img-fluid zoom-img" alt="" />
 						</a>
 					</div>
 				</div>
