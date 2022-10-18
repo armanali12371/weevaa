@@ -2,7 +2,7 @@
 <html lang="zxx">
 
 <head>
-    <title>Look Fashion Category Bootstrap Responsive Web Template | Home :: weevaa</title>
+    <title>Weeva | Home :: weevaa</title>
     <!-- Meta tag Keywords -->
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta charset="UTF-8" />
