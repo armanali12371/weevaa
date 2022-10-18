@@ -72,7 +72,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                                 aria-haspopup="true" aria-expanded="false">Our Products
                                 <i class="fa fa-angle-down" aria-hidden="true"></i>
                             </a>
-                            <div class="dropdown-menu second mt-2" style="display: none;">
+                            <div class="dropdown-menu second mt-2" style="display: none; margin-top: -5px;">
                                 <a class="dropdown-item" href="product.php">Menswear</a>
                                 <a class="dropdown-item " href="product.php">Womenswear</a>
                                 <a class="dropdown-item " href="product.php">Kidswear</a>
