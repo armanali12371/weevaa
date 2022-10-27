@@ -54,6 +54,9 @@
                 <div class="collapse navbar-collapse navbar-toggle " id="navbarWeevaa">
                     <ul class="navbar-nav mx-lg-auto">
                         <li>
+                            <a class="nav-link" href="index.php">Home</a>
+                        </li>
+                        <li>
                             <a class="nav-link" href="about.php">About Us</a>
                         </li>
                         <li>
@@ -74,19 +77,19 @@
                             </a>
                             <div class="dropdown-menu second mt-2" style="display: none;  margin-top: -5px;">
                                 <div class="dropdown-menu second mt-2" style="display: none;">
-                                    <a class="dropdown-item" href="product.php">Menswear</a>
-                                    <a class="dropdown-item " href="product.php">Womenswear</a>
-                                    <a class="dropdown-item " href="product.php">Kidswear</a>
-                                    <a class="dropdown-item " href="product.php">Uniforms</a>
-                                    <a class="dropdown-item " href="product.php">Home Furnishing</a>
-                                    <a class="dropdown-item " href="product.php">Accessories</a>
-                                    <a class="dropdown-item " href="product.php">Leather</a>
-                                    <a class="dropdown-item " href="product.php">Shoes (Mens, Womens &
+                                    <a class="dropdown-item" href="menswear.php">Menswear</a>
+                                    <a class="dropdown-item " href="womenwear.php">Womenswear</a>
+                                    <a class="dropdown-item " href="kidwear.php">Kidswear</a>
+                                    <a class="dropdown-item " href="uniform.php">Uniforms</a>
+                                    <a class="dropdown-item " href="homefurnishing.php">Home Furnishing</a>
+                                    <a class="dropdown-item " href="accessories.php">Accessories</a>
+                                    <a class="dropdown-item " href="leather.php">Leather</a>
+                                    <a class="dropdown-item " href="shoes.php">Shoes (Mens, Womens &
                                         Kids)</a>
-                                    <a class="dropdown-item " href="product.php">Handicrafts
+                                    <a class="dropdown-item " href="handcraft.php">Handicrafts
                                         Products</a>
-                                    <a class="dropdown-item " href="product.php">Fabric</a>
-                                    <a class="dropdown-item" href="product.php">Bags, Suitcases &
+                                    <a class="dropdown-item " href="fabric.php">Fabric</a>
+                                    <a class="dropdown-item" href="bags.php">Bags, Suitcases &
                                         Luggage</a>
                                 </div>
                             </div>

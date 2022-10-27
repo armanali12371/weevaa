@@ -149,7 +149,7 @@ a.navbar-brand img {
 /* navigation */
 .navbar {
     padding: 1.5em 4em;
-    background: transparent !important;
+    background: #00000091 !important;
 }
 
 .navbar-light .navbar-nav .nav-link {
@@ -251,13 +251,13 @@ nav.navbar.shrink .header-social-wvls {
 }
 
 nav.navbar.shrink .navbar-brand {
-    font-size: 38px;
+    font-size: 50px;
     transition: all 1.5s ease;
 }
 
 nav.navbar.shrink .navbar-brand img {
-    height: 56px;
-    width: 60px;
+    height: 100px;
+    width: 100px;
     transition: all 1.5s ease;
     top: 7px;
     left: 22px;
@@ -364,7 +364,7 @@ p.banner-para-wthree {
     text-transform: uppercase;
     letter-spacing: 1px;
     border-radius: 100px;
-    border: 2px solid #fff;
+    /* border: 2px solid #fff; */
     background: transparent;
 }
 
@@ -513,7 +513,7 @@ h5.card-title.mt-3 {
 }
 
 a.button-3 {
-    background: linear-gradient(to right bottom, #fb4386, #ec4fae, #ce63d0, #a377ea, #6488f9);
+    background: #ffba00;
     padding: 14px 28px;
 }
 

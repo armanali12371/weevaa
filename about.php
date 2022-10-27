@@ -36,17 +36,7 @@
                         <p>WeeVaa is a sourcing agency for leading international wholesale and retail brands.</p>
                     </div>
                 </div>
-                <div class="row">
-                    <div class="col-sm-2 col-3 text-sm-left text-center left-year mt-sm-3 mt-2">
-                        <div class="icon icon-twitter icon-lg bg-round">
-                            <img class="" src="images/search-worldwide.png">
-                        </div>
-                    </div>
-                    <div class="col-sm-9 col-8 right-text-whtree border-left pl-3">
-                        <p>Managing sourcing out of the Indian sub-continent.</p>
-                    </div>
-                </div>
-                <div class="row my-4">
+				<div class="row my-4">
                     <div class="col-sm-2 col-3 text-sm-left text-center  left-year mt-sm-3 mt-2">
                         <div class="icon icon-twitter icon-lg bg-round">
                             <img class="" src="images/research.png">
@@ -58,6 +48,17 @@
                         </p>
                     </div>
                 </div>
+                <div class="row">
+                    <div class="col-sm-2 col-3 text-sm-left text-center left-year mt-sm-3 mt-2">
+                        <div class="icon icon-twitter icon-lg bg-round">
+                            <img class="" src="images/search-worldwide.png">
+                        </div>
+                    </div>
+                    <div class="col-sm-9 col-8 right-text-whtree border-left pl-3">
+                        <p>Managing sourcing out of the Indian sub-continent.</p>
+                    </div>
+                </div>
+                
                 <div class="row">
                     <div class="col-sm-2 col-3 text-sm-left text-center left-year mt-sm-3 mt-2">
                         <div class="icon icon-twitter icon-lg bg-round">
