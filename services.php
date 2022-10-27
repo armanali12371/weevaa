@@ -97,7 +97,7 @@
                     </div> -->
                 </div>
                 <div class="row mt-4">
-                <div class="col-md-4">
+                    <div class="col-md-4">
                         <div class="card" style="background: #e1e8f7;">
                             <div class="card-body py-lg-5 py-4">
                                 <img src="images/touch.png" style="height: 68px;" class="fa fa-paint-brush" aria-hidden="true"></i>
@@ -121,7 +121,7 @@
                             </div>
                         </div>
                     </div>
-                    
+
                 </div>
             </div>
         </div>

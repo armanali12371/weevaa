@@ -181,18 +181,18 @@
 			<div class="col-xl-7 col-md-6 right-models text-center mt-md-0 mt-5">
 				<div class="row">
 					<div class="col-md-4">
-						<div class="card" style="background: #ebebeb;">
+						<div class="card" style="background: #ebebeb; height: 220px;">
 							<div class="card-body py-lg-5 py-4">
-								<img src="images/cloud-server.png" style="height: 68px;" class="fa fa-spinner" aria-hidden="true"></img>
-								<h5 class="card-title mt-3" style="color: #c14343;">Sourcing</h5>
+								<img src="images/ribbon.png" style="height: 68px;" class="fa fa-magic" aria-hidden="true"></img>
+								<h5 class="card-title mt-3" style="color: #5986c5;">Design & Development</h5>
 							</div>
 						</div>
 					</div>
 					<div class="col-md-4">
 						<div class="card" style="background: #e1e8f7;">
 							<div class="card-body py-lg-5 py-4">
-								<img src="images/production.png" style="height: 68px;" class="fa fa-female" aria-hidden="true"></img>
-								<h5 class="card-title mt-3" style="color: #72a02d;">Production</h5>
+								<img src="images/cloud-server.png" style="height: 68px;" class="fa fa-spinner" aria-hidden="true"></img>
+								<h5 class="card-title mt-3" style="color: #c14343;">Sourcing</h5>
 							</div>
 						</div>
 					</div>
@@ -207,7 +207,15 @@
 				</div>
 				<div class="row mt-4">
 					<div class="col-md-4">
-						<div class="card" style="background: #e1e8f7; height: 220px;">
+						<div class="card" style="background: #e1e8f7;">
+							<div class="card-body py-lg-5 py-4">
+								<img src="images/touch.png" style="height: 68px;" class="fa fa-paint-brush" aria-hidden="true"></i>
+								<h5 class="card-title mt-3" style="color: #B8CB3C;     font-size: 21px;">Manufacturing</h5>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-4">
+						<div class="card" style="background:#ebebeb ; height: 220px;">
 							<div class="card-body py-lg-5 py-4">
 								<img src="images/ribbon.png" style="height: 68px;" class="fa fa-magic" aria-hidden="true"></img>
 								<h5 class="card-title mt-3" style="color: #5986c5;">Quality Assurance</h5>
@@ -215,18 +223,10 @@
 						</div>
 					</div>
 					<div class="col-md-4">
-						<div class="card" style="background: #ebebeb;">
+						<div class="card" style="background:#e1e8f7 ">
 							<div class="card-body py-lg-5 py-4">
 								<img src="images/drone.png" style="height: 68px;" class="fa fa-paint-brush" aria-hidden="true"></i>
-								<h5 class="card-title mt-3" style="color: #b23f70;">Logistics</h5>
-							</div>
-						</div>
-					</div>
-					<div class="col-md-4">
-						<div class="card" style="background: #e1e8f7;">
-							<div class="card-body py-lg-5 py-4">
-								<img src="images/touch.png" style="height: 68px;" class="fa fa-paint-brush" aria-hidden="true"></i>
-								<h5 class="card-title mt-3" style="color: #B8CB3C;">Technology</h5>
+								<h5 class="card-title mt-3" style="color: #b23f70;">Supply Chain / Logistics</h5>
 							</div>
 						</div>
 					</div>
@@ -579,10 +579,6 @@
 						<div class="form-group">
 							<label>Email</label>
 							<input type="email" class="contact-formwvls form-control" name="email" id="contactemail" required>
-						</div>
-						<div class="form-group">
-							<label>Mobile</label>
-							<input type="number" class="contact-formwvls form-control" name="mobile" id="contactemail" required>
 						</div>
 						<div class="form-group">
 							<label>Country</label>

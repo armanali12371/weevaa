@@ -4,8 +4,8 @@
                 <div class="col-lg-5 footer-grid-wthree">
                     <h1 class="footer-title text-white mb-4">Get In Touch</h1>
                     <div class="contact-info">
-                        <h4 class="text-light text-uppercase mb-2">Location :</h4>
-                        <p>JMD Megapolis, <span>Gurgaon.</span></p>
+                        <!-- <h4 class="text-light text-uppercase mb-2">Location :</h4>
+                        <p>JMD Megapolis, <span>Gurgaon.</span></p> -->
                         <div class="phone mt-4 pt-2">
                             <h4 class="text-light text-uppercase mb-2">Contact :</h4>
                             <p>Phone : +91 97110 00152</p>

@@ -42,10 +42,7 @@
 							<label>Email</label>
 							<input type="email" class="contact-formwvls form-control" name="email" id="contactemail" required>
 						</div>
-						<div class="form-group">
-							<label>Mobile</label>
-							<input type="number" class="contact-formwvls form-control" name="mobile" id="contactemail" required>
-						</div>
+					
 						<div class="form-group">
 							<label>Country</label>
 							<select style="    height: calc(2.45rem + 2px);" class="contact-formwvls form-control" name="country" id="contactemail" required>
