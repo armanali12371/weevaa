@@ -1128,8 +1128,8 @@ button.contact-submit {
     }
 
     nav.navbar.shrink .navbar-brand img {
-        height: 46px;
-        width: 50px;
+        height: 77px;
+        width: 98px;
     }
 
     nav.navbar.shrink .navbar-toggler {
@@ -1363,9 +1363,9 @@ button.contact-submit {
     }
 
     a.navbar-brand img {
-        top: -3px;
-        left: 16px;
-        width: 40%;
+        top: -27px;
+    left: 20px;
+    width: 100%;
     }
 }
 
