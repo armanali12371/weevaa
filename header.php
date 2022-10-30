@@ -79,7 +79,7 @@
                                 <div class="dropdown-menu second mt-2" style="display: none;">
                                     <a class="dropdown-item" href="menswear.php">Menswear</a>
                                     <a class="dropdown-item " href="womenwear.php">Womenswear</a>
-                                    <a class="dropdown-item " href="kidwear.php">Kidswear</a>
+                                    <a class="dropdown-item " href="kidswear.php">Kidswear</a>
                                     <a class="dropdown-item " href="uniform.php">Uniforms</a>
                                     <a class="dropdown-item " href="homefurnishing.php">Home Furnishing</a>
                                     <a class="dropdown-item " href="accessories.php">Accessories</a>

@@ -3,119 +3,47 @@
 
 <!-- page details -->
 <div class="breadcrumb-agile">
-    <nav aria-label="breadcrumb">
-        <ol class="breadcrumb">
-            <li class="breadcrumb-item">
-                <a href="index.php">Home</a>
-            </li>
-            <li class="breadcrumb-item active" aria-current="page">About Us</li>
-        </ol>
-    </nav>
+	<nav aria-label="breadcrumb">
+		<ol class="breadcrumb">
+			<li class="breadcrumb-item">
+				<a href="index.php">Home</a>
+			</li>
+			<li class="breadcrumb-item active" aria-current="page">About Us</li>
+		</ol>
+	</nav>
 </div>
 <!-- //page details -->
 
 <!-- about -->
-<div class="about-wvl py-5">
-    <div class="container py-xl-5 py-lg-3">
-        <!-- heading title -->
-        <div class="text-center mb-lg-5 mb-4">
-            <h3 class="title-wthree mb-2">
-                Few Words<span class="mt-2 text-uppercase font-weight-bold">About Us</span></h3>
-        </div>
-        <!-- //heading title -->
-        <div class="row">
-            <div class="col-lg-7 about-text-left">
-                <!-- <h3 class="about-title mb-md-4 mb-3">Awards Winning</h3> -->
-                <div class="row">
-                    <div class="col-sm-2 col-3 text-sm-left text-center left-year mt-sm-3 mt-2">
-                        <div class="icon icon-twitter icon-lg bg-round">
-                            <img class="" src="images/search-worldwide.png">
-                        </div>
-                    </div>
-                    <div class="col-sm-9 col-8 right-text-whtree border-left pl-3">
-                        <p>WeeVaa is a sourcing agency for leading international wholesale and retail brands.</p>
-                    </div>
-                </div>
-				<div class="row my-4">
-                    <div class="col-sm-2 col-3 text-sm-left text-center  left-year mt-sm-3 mt-2">
-                        <div class="icon icon-twitter icon-lg bg-round">
-                            <img class="" src="images/research.png">
-                        </div>
-                    </div>
-                    <div class="col-sm-9 col-8 right-text-whtree border-left pl-3">
-                        <p>We offer completely integrated product development, research and program management services
-                            for clothing, fashion accessories, textile furnishings, home products, fabrics and yarns.
-                        </p>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-sm-2 col-3 text-sm-left text-center left-year mt-sm-3 mt-2">
-                        <div class="icon icon-twitter icon-lg bg-round">
-                            <img class="" src="images/search-worldwide.png">
-                        </div>
-                    </div>
-                    <div class="col-sm-9 col-8 right-text-whtree border-left pl-3">
-                        <p>Managing sourcing out of the Indian sub-continent.</p>
-                    </div>
-                </div>
-                
-                <div class="row">
-                    <div class="col-sm-2 col-3 text-sm-left text-center left-year mt-sm-3 mt-2">
-                        <div class="icon icon-twitter icon-lg bg-round">
-                            <img class="" src="images/shopping-cart.png" style="height: 41px;
-								margin: 14px;">
-                        </div>
-                    </div>
-                    <div class="col-sm-9 col-8 right-text-whtree border-left pl-3">
-                        <p>We are a one-stop shop in that our customers can source from us a wide range of products for
-                            their fashion collections and stores.</p>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-sm-2 col-3 text-sm-left text-center left-year mt-sm-3 mt-2">
-                        <div class="icon icon-twitter icon-lg bg-round">
-                            <img class="" src="images/value.png" style="height: 41px;
-								margin: 14px;">
-                        </div>
-                    </div>
-                    <div class="col-sm-9 col-8 right-text-whtree border-left pl-3">
-                        <p>We keep our customers informed of our latest innovations and collections through offer
-                            samples and email attachments.</p>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-sm-2 col-3 text-sm-left text-center left-year mt-sm-3 mt-2">
-                        <div class="icon icon-twitter icon-lg bg-round">
-                            <img class="" src="images/shopping-cart.png" style="height: 41px;
-								margin: 14px;">
-                        </div>
-                    </div>
-                    <div class="col-sm-9 col-8 right-text-whtree border-left pl-3">
-                        <p>We translate trends very beautifully and develop designs, styles, prints and embroideries
-                            based on fashion trends globally.</p>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-sm-2 col-3 text-sm-left text-center left-year mt-sm-3 mt-2">
-                        <div class="icon icon-twitter icon-lg bg-round">
-                            <img class="" src="images/shopping-cart.png" style="height: 41px;
-								margin: 14px;">
-                        </div>
-                    </div>
-                    <div class="col-sm-9 col-8 right-text-whtree border-left pl-3">
-                        <p>We are a company that believes in sustainable fashion and culture as much as trade. WeeVaa
-                            promotes Eco friendly planet by the nature and for the nature.</p>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-5 about-text-right mt-lg-0 mt-5">
-                <div class="mb-lg-5 mb-sm-4 mb-3">
-                    <img src="images/about-us.jpg" alt="" style="height: auto;width: 100%;     border-radius: 18px;">
-                </div>
-            </div>
-        </div>
-    </div>
+<div class="models-agile py-5">
+	<div class="container py-xl-5 py-lg-3">
+		<div class="row">
+			<!-- <div class="offset-xl-2"></div> -->
+			<div class="col-xl-7 col-md-6 left-models  mt-3">
+				<!-- heading title -->
+				<div class="">
+					<h3 class="title-wthree mb-3">
+						weevaa<span class="mt-2 text-uppercase font-weight-bold">About Us</span></h3>
+					<p>We are a company that believes in sustainable fashion and culture as much as trade.</p>
+					<p>Weevaa promotes Eco friendly planet by the nature and for the nature.
+					</p>
+					<p>Today’s Fashion, across the world are making a dent in whatever field of work we choose. We all want to become a creator by self an entrepreneur, a professional, a friend, a mentor, a guide; playing multiple roles while at home, office or even at space. For our each and every role we aim to create garments that represent unified emotions of hope and optimism, and collective experiences of fashion around the world.</p>
+					<p> We celebrate our bodies and believe that every size, every curve and every colour is attractive. Weevaa specializes in sizing and fit-technology for apparel, we carry that expertise in our designs, and are inclusive in our reach to customers across the globe. Weevaa is for the fashion of today.</p>
+
+					<!-- <a href="about.php" class="btn button-3 button-style mt-5">Discover More</a> -->
+				</div>
+				<!-- //heading title -->
+			</div>
+			<div class="col-xl-5 col-md-6 right-models text-center mt-md-0 mt-5">
+				<div class="row">
+					<img src="images/about-us.jpg" style="width:100%;margin-top: 89px;border-radius: 40px;height: 400px;" />
+				</div>
+			</div>
+		</div>
+	</div>
 </div>
+
+
 <!-- //about -->
 
 <!-- grids -->
@@ -159,63 +87,145 @@
 
 <!-- team -->
 <div class="team py-5" id="team" style=" background: #49aca8;">
-    <div class="container py-xl-5 py-lg-3">
+	<div class="container py-xl-5 py-lg-3">
 
-        <div class="text-center mb-lg-5 mb-4">
-            <h3 class="title-wthree mb-2">
-                <span class="mt-2 text-uppercase font-weight-bold">WeeVaa inspiration</span>
-            </h3>
-        </div>
-        <p style="color:white; text-align:center;">
-            We inspired by the weaver bird who is known for his art work it constructs some of the most elaborate nests
-            in the entire bird world.
-        </p>
-        <p style="color:white; text-align:center;">
-            Weavers are among the most gregarious birds in the world. They liter all weave together overlapping leaves,
-            grass and other plant fiber.
-        </p>
-    </div>
+		<div class="text-center mb-lg-5 mb-4">
+			<h3 class="title-wthree mb-2">
+				<span class="mt-2 text-uppercase font-weight-bold">WeeVaa inspiration</span>
+			</h3>
+		</div>
+		<p style="color:white; text-align:center;">
+		We inspired by the weaver bird who is known for his art work it constructs some of the most elaborate nests in the entire bird world.
+		</p>
+		<p style="color:white; text-align:center;">
+		Weavers are among the most gregarious birds in the world. They liter all weave together overlapping leaves, grass and other plant fiber.
+		</p>
+	</div>
 </div>
 </div>
 
 
 <div class="middle-wvl py-5">
-    <div class="container py-xl-5 py-lg-3">
-        <h3>Succeed In The Fashion World</h3>
-        <!-- <p class="my-md-4 my-2">Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod
+	<div class="container py-xl-5 py-lg-3">
+		<h3>Succeed In The Fashion World</h3>
+		<!-- <p class="my-md-4 my-2">Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod
 				mazim.</p> -->
-        <a href="contact.php" class="btn button-3 button-style mt-5">Contact Us</a>
-    </div>
+		<a href="contact.php" class="btn button-3 button-style mt-5">Contact Us</a>
+	</div>
 </div>
 <!-- //middle section -->
+<div class="about-wvl py-5">
+	<div class="container py-xl-5 py-lg-3">
+		<!-- heading title -->
+		<div class="text-center mb-lg-5 mb-4">
+			<h3 class="title-wthree mb-2">
+			weevaa<span class="mt-2 text-uppercase font-weight-bold">Why Choose Us?</span></h3>
+		</div>
+		<!-- //heading title -->
+		<div class="row">
+			<div class="col-lg-7 about-text-left">
+				<!-- <h3 class="about-title mb-md-4 mb-3">Awards Winning</h3> -->
+				<div class="row">
+					<div class="col-sm-2 col-3 text-sm-left text-center left-year mt-sm-3 mt-2">
+						<div class="icon icon-twitter icon-lg bg-round">
+							<img class="" src="images/search-worldwide.png">
+						</div>
+					</div>
+					<div class="col-sm-9 col-8 right-text-whtree border-left pl-3">
+						<p>It’s always fun to stand out from the crowd, and you might as well do it in style. At Weevaa, we offer vibrant pieces and staple clothing items to fill your closet to the brim with fashion and fierce attitude.</p>
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-sm-2 col-3 text-sm-left text-center left-year mt-sm-3 mt-2">
+						<div class="icon icon-twitter icon-lg bg-round">
+							<img class="" src="images/search-worldwide.png">
+						</div>
+					</div>
+					<div class="col-sm-9 col-8 right-text-whtree border-left pl-3">
+						<p>Weevaa as a Sourcing Company that believes in sustainable fashion and culture as much as trade for leading international wholesale and retail brands.</p>
+					</div>
+				</div>
+				<div class="row my-4">
+					<div class="col-sm-2 col-3 text-sm-left text-center  left-year mt-sm-3 mt-2">
+						<div class="icon icon-twitter icon-lg bg-round">
+							<img class="" src="images/research.png">
+						</div>
+					</div>
+					<div class="col-sm-9 col-8 right-text-whtree border-left pl-3">
+						<p>We offer completely integrated product development, research and program management services
+							for clothing, fashion accessories, textile furnishings, home products, fabrics and yarns.
+						</p>
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-sm-2 col-3 text-sm-left text-center left-year mt-sm-3 mt-2">
+						<div class="icon icon-twitter icon-lg bg-round">
+							<img class="" src="images/search-worldwide.png">
+						</div>
+					</div>
+					<div class="col-sm-9 col-8 right-text-whtree border-left pl-3">
+						<p>Managing sourcing out of the Indian sub-continent.</p>
+					</div>
+				</div>
 
-<!-- best in -->
-<div class="models-agile py-5">
-    <div class="container py-xl-5 py-lg-3">
-        <div class="row">
-            <!-- <div class="offset-xl-2"></div> -->
-            <div class="col-xl-7 col-md-6 left-models mt-lg-5 mt-3 pt-lg-4">
-                <!-- heading title -->
-                <div class="">
-                    <h3 class="title-wthree mb-3">
-                        weevaa<span class="mt-2 text-uppercase font-weight-bold">Why Choose Us?</span></h3>
-                    <p class="">It’s always fun to stand out from the crowd, and you might as well do it in style. At
-                        Weevaa, we offer vibrant pieces and staple clothing items to fill your closet to the brim with
-                        fashion and fierce attitude.</p>
-                    <p>Weevaa as a Sourcing Company that believes in sustainable fashion and culture as much as trade.
-                    </p>
-                    <a href="about.php" class="btn button-3 button-style mt-5">Discover More</a>
-                </div>
-                <!-- //heading title -->
-            </div>
-            <div class="col-xl-5 col-md-6 right-models text-center mt-md-0 mt-5">
-                <div class="row">
-                    <img src="images/about.jpg" style="height: auto; width:100%;" />
-                </div>
-            </div>
-        </div>
-    </div>
+				<div class="row">
+					<div class="col-sm-2 col-3 text-sm-left text-center left-year mt-sm-3 mt-2">
+						<div class="icon icon-twitter icon-lg bg-round">
+							<img class="" src="images/shopping-cart.png" style="height: 41px;
+								margin: 14px;">
+						</div>
+					</div>
+					<div class="col-sm-9 col-8 right-text-whtree border-left pl-3">
+						<p>We are a one-stop shop in that our customers can source from us a wide range of products for
+							their fashion collections and stores.</p>
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-sm-2 col-3 text-sm-left text-center left-year mt-sm-3 mt-2">
+						<div class="icon icon-twitter icon-lg bg-round">
+							<img class="" src="images/value.png" style="height: 41px;
+								margin: 14px;">
+						</div>
+					</div>
+					<div class="col-sm-9 col-8 right-text-whtree border-left pl-3">
+						<p>We keep our customers informed of our latest innovations and collections through offer
+							samples and email attachments.</p>
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-sm-2 col-3 text-sm-left text-center left-year mt-sm-3 mt-2">
+						<div class="icon icon-twitter icon-lg bg-round">
+							<img class="" src="images/shopping-cart.png" style="height: 41px;
+								margin: 14px;">
+						</div>
+					</div>
+					<div class="col-sm-9 col-8 right-text-whtree border-left pl-3">
+						<p>We translate trends very beautifully and develop designs, styles, prints and embroideries
+							based on fashion trends globally.</p>
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-sm-2 col-3 text-sm-left text-center left-year mt-sm-3 mt-2">
+						<div class="icon icon-twitter icon-lg bg-round">
+							<img class="" src="images/shopping-cart.png" style="height: 41px;
+								margin: 14px;">
+						</div>
+					</div>
+					<div class="col-sm-9 col-8 right-text-whtree border-left pl-3">
+						<p>We are a company that believes in sustainable fashion and culture as much as trade. WeeVaa
+							promotes Eco friendly planet by the nature and for the nature.</p>
+					</div>
+				</div>
+			</div>
+			<div class="col-lg-5 about-text-right mt-lg-0 mt-5">
+				<div class="mb-lg-5 mb-sm-4 mb-3">
+					<img src="images/about-us.jpg" alt="" style="height: auto;width: 100%;     border-radius: 18px;">
+				</div>
+			</div>
+		</div>
+	</div>
 </div>
+<!-- best in -->
 <!-- //best in -->
 <!-- model slider -->
 <!-- <div class="slider-middle py-5" id="models">
