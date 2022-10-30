@@ -1,39 +1,69 @@
 <?php include('header-2.php'); ?>
-	<!-- //banner -->
+<!-- //banner -->
 
-	<!-- page details -->
-	<div class="breadcrumb-agile">
-		<nav aria-label="breadcrumb">
-			<ol class="breadcrumb">
-				<li class="breadcrumb-item">
-					<a href="index.php">Home</a>
-				</li>
-				<li class="breadcrumb-item active" aria-current="page">Contact Us</li>
-			</ol>
-		</nav>
+<!-- page details -->
+<div class="breadcrumb-agile">
+	<nav aria-label="breadcrumb">
+		<ol class="breadcrumb">
+			<li class="breadcrumb-item">
+				<a href="index.php">Home</a>
+			</li>
+			<li class="breadcrumb-item active" aria-current="page">Contact Us</li>
+		</ol>
+	</nav>
+</div>
+<!-- //page details -->
+
+<!-- contact -->
+<div class="models-agile py-5" style="background: #edf0e9;" id="Accessories">
+
+	<div class="container py-xl-5 py-lg-3">
+		<div class="row">
+			<!-- <div class="offset-xl-2"></div> -->
+
+			<div class="col-xl-5 col-md-6 right-models text-center mt-md-0 mt-5">
+				<div class="row">
+					<img src="images/product/pexels-victoria-akvarel-1094082.jpg" style="height: auto; width:100%; border-radius:10px;" />
+				</div>
+			</div>
+			<div class="col-xl-7 col-md-6 left-models mt-lg-5 mt-3 pt-lg-4">
+				<!-- heading title -->
+				<div class="" style="margin-left: 50px;">
+					<h3 class="title-wthree mb-3">
+						<span class="mt-2 text-uppercase font-weight-bold">Get In Touch</span>
+					</h3>
+					<p class="" style="font-size: 20px;"><span style="font-weight:700;">Address: </span> Gurgaon, Haryana
+					</p>
+					<p class="" style="font-size: 20px;"><span style="font-weight:700;">Phone: </span> +91 97110 00152
+					</p>
+					<p class="" style="font-size: 20px;"><span style="font-weight:700;">Email: </span> info@weevaa.com
+					</p>
+				</div>
+				<!-- //heading title -->
+			</div>
+		</div>
 	</div>
-	<!-- //page details -->
+</div>
+<section class="wthree-row wv-contact py-5">
 
-	<!-- contact -->
-	<section class="wthree-row wv-contact py-5">
-        <div class="container py-xl-5 py-lg-3">
-            <!-- heading title -->
-            <div class="text-center mb-lg-5 mb-4">
-                <h3 class="title-wthree mb-2">
-                    Get In Touch<span class="mt-2 text-uppercase font-weight-bold">Contact Us</span></h3>
-            </div>
-            <!-- //heading title -->
-            <div class="row contact-form py-3">
-                <!-- contact map -->
-                <div class="col-lg-6 map text-center">
-                   
-                    <img src="images/pexels-los-muertos-crew-7205816.jpg" alt="" class="img-fluid" />
-                </div>
-                <!-- //contact map -->
-                <!-- contact form -->
-                <div class="col-lg-6 wthree-form-left mt-lg-0 mt-5">
-                    <div class="contact-top1">
-                    <form action="email.php" method="post" class="f-color">
+	<div class="container py-xl-5 py-lg-3">
+		<!-- heading title -->
+		<div class="text-center mb-lg-5 mb-4">
+			<h3 class="title-wthree mb-2">
+				Get In Touch<span class="mt-2 text-uppercase font-weight-bold">Contact Us</span></h3>
+		</div>
+		<!-- //heading title -->
+		<div class="row contact-form py-3">
+			<!-- contact map -->
+			<div class="col-lg-6 map text-center">
+
+				<img src="images/pexels-los-muertos-crew-7205816.jpg" alt="" class="img-fluid" />
+			</div>
+			<!-- //contact map -->
+			<!-- contact form -->
+			<div class="col-lg-6 wthree-form-left mt-lg-0 mt-5">
+				<div class="contact-top1">
+					<form action="email.php" method="post" class="f-color">
 						<div class="form-group">
 							<label>Name</label>
 							<input type="text" class="contact-formwvls form-control" name="name" id="contactusername" required>
@@ -42,7 +72,7 @@
 							<label>Email</label>
 							<input type="email" class="contact-formwvls form-control" name="email" id="contactemail" required>
 						</div>
-					
+
 						<div class="form-group">
 							<label>Country</label>
 							<select style="    height: calc(2.45rem + 2px);" class="contact-formwvls form-control" name="country" id="contactemail" required>
@@ -306,12 +336,12 @@
 
 						<button type="submit" class="btn submit contact-submit mt-4">Submit</button>
 					</form>
-                    </div>
-                </div>
-                <!-- //contact form -->
-            </div>
-        </div>
-    </section>
-	<!-- //contact -->
+				</div>
+			</div>
+			<!-- //contact form -->
+		</div>
+	</div>
+</section>
+<!-- //contact -->
 
-	<?php include('footer.php'); ?>
+<?php include('footer.php'); ?>
