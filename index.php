@@ -5,7 +5,7 @@
 	<div class="container">
 		<div class="banner-text-size-wvls">
 			<h3 class="text-banner-agile text-uppercase text-white font-weight-bold">
-				Be classy and exclusive with our exclusive designs
+				End to End sourcing solution for all fashion needs.
 			</h3>
 			<!-- <p class="mt-3 mb-5 banner-para-wthree"><span class="text-white font-weight-bold ">2022</span> Trending Styles,
 						Stylish Fashion.</p> -->
@@ -26,7 +26,7 @@
 				<!-- heading title -->
 				<div class="" style="text-align: center;">
 					<h3 class="title-wthree mb-3">
-						<span class="mt-2 text-uppercase font-weight-bold">who we are?</span>
+						<span class="mt-2 text-uppercase font-weight-bold">Weevaa</span>
 					</h3>
 					<p class="">Welcome to Weevaa, the Sourcing Solution Company. From the high-fashion tops to the go-with-everything accessories, you’ll find the hottest trends right here. Our experties on sourcing different categories of wide range of Fashion Products has made us the top Sourcing spot.
 					</p>
@@ -40,71 +40,124 @@
 </div>
 <div class="banner-bottom-agile text-center py-5" style="background: #eef2ed;">
 	<div class="row">
-		<div class="container py-xl-5 py-lg-3 col-md-6">
+		<div class="container py-xl-5 py-lg-3 col-md-12">
 			<!-- heading title -->
-			<div class="mb-lg-5 mb-sm-4 mb-3">
+			<div class="mb-lg-5 mb-sm-4 mb-3" style="margin-bottom: 1rem !important;">
 				<h3 class="title-wthree mb-2">
 					How<span class="mt-2 text-uppercase font-weight-bold"> we add value</span></h3>
 			</div>
 			<!-- //heading title -->
-			<ul>
-				<li class="para-bottom-wthree">
-					<div class="demo text-lg ">
-						<div class="icon icon-twitter icon-lg bg-round">
-							<img class="" src="images/search-worldwide.png">
+			<!-- <h3 class="about-title mb-md-4 mb-3">Awards Winning</h3> -->
+			<div class="row">
+				<div class="col-md-6">
+					<div class="row text-lg">
+						<div class="col-sm-2 col-3 text-sm-left text-center left-year mt-sm-3 mt-2">
+							<div class="icon icon-twitter icon-lg bg-round">
+								<img class="" src="images/search-worldwide.png">
+							</div>
 						</div>
-						<span>WeeVaa is a sourcing agency for leading international wholesale and retail
-							brands.</span>
-					</div>
-					<!-- <i class="bg-round"></i> <span>WeeVaa is a sourcing agency for leading international wholesale and retail brands.</span> -->
-					<!-- <div class="bg-round"></div> -->
-
-				</li>
-				<li class="para-bottom-wthree">
-					<div class="demo text-lg">
-						<div class="icon icon-twitter icon-lg bg-round">
-							<img class="" src="images/dress.png">
+						<div class="col-sm-9 col-8 right-text-whtree border-left pl-3">
+							<p>It’s always fun to stand out from the crowd, and you might as well do it in style. At Weevaa, we offer vibrant pieces and staple clothing items to fill your closet to the brim with fashion and fierce attitude.</p>
 						</div>
-						<span> Believes in sustainable fashion and culture as much as trade</span>
 					</div>
-					<!-- <i class="bg-round"></i> <span>
-						Managing sourcing out of the Indian sub-continent.</span> -->
-				</li>
-				<li class="para-bottom-wthree">
-					<div class="demo text-lg">
-						<div class="icon icon-twitter icon-lg bg-round">
-							<img class="" src="images/search-worldwide.png">
+					<div class="row text-lg">
+						<div class="col-sm-2 col-3 text-sm-left text-center left-year mt-sm-3 mt-2">
+							<div class="icon icon-twitter icon-lg bg-round">
+								<img class="" src="images/search-worldwide.png">
+							</div>
 						</div>
-						<span>Managing sourcing out of the Indian sub-continent.</span>
+						<div class="col-sm-9 col-8 right-text-whtree border-left pl-3">
+							<p>Weevaa as a Sourcing Company that believes in sustainable fashion and culture as much as trade for leading international wholesale and retail brands.</p>
+						</div>
 					</div>
-					<!-- <i class="bg-round"></i> <span>
-						Managing sourcing out of the Indian sub-continent.</span> -->
-				</li>
-				<li class="para-bottom-wthree">
-					<div class="demo text-lg">
-						<div class="icon icon-twitter icon-lg bg-round">
-							<img class="" src="images/shopping-cart.png" style="height: 41px;
+					<div class="row my-4 text-lg">
+						<div class="col-sm-2 col-3 text-sm-left text-center  left-year mt-sm-3 mt-2">
+							<div class="icon icon-twitter icon-lg bg-round">
+								<img class="" src="images/research.png">
+							</div>
+						</div>
+						<div class="col-sm-9 col-8 right-text-whtree border-left pl-3">
+							<p>We offer completely integrated product development, research and program management services
+								for clothing, fashion accessories, textile furnishings, home products, fabrics and yarns.
+							</p>
+						</div>
+					</div>
+					<div class="row text-lg">
+						<div class="col-sm-2 col-3 text-sm-left text-center left-year mt-sm-3 mt-2">
+							<div class="icon icon-twitter icon-lg bg-round">
+								<img class="" src="images/shopping-cart.png" style="height: 41px;
 								margin: 14px;">
+							</div>
 						</div>
-						One-stop shop in that our customers can source from us a wide range of products for
-						their fashion collections and stores.
+						<div class="col-sm-9 col-8 right-text-whtree border-left pl-3">
+							<p>We translate trends very beautifully and develop designs, styles, prints and embroideries
+								based on fashion trends globally.</p>
+						</div>
 					</div>
-					<!-- <i class="bg-round"></i> <span>
-						We are a one-stop shop in that our customers can source from us a wide range of products for
-						their fashion collections and stores.</span> -->
-				</li>
+				</div>
+				<div class="col-md-6">
+					<div class="row text-lg">
+						<div class="col-sm-2 col-3 text-sm-left text-center left-year mt-sm-3 mt-2">
+							<div class="icon icon-twitter icon-lg bg-round">
+								<img class="" src="images/search-worldwide.png">
+							</div>
+						</div>
+						<div class="col-sm-9 col-8 right-text-whtree border-left pl-3">
+							<p>Managing sourcing out of the Indian sub-continent.</p>
+						</div>
+					</div>
 
-
-			</ul>
+					<div class="row text-lg">
+						<div class="col-sm-2 col-3 text-sm-left text-center left-year mt-sm-3 mt-2">
+							<div class="icon icon-twitter icon-lg bg-round">
+								<img class="" src="images/shopping-cart.png" style="height: 41px;
+								margin: 14px;">
+							</div>
+						</div>
+						<div class="col-sm-9 col-8 right-text-whtree border-left pl-3">
+							<p>We are a one-stop shop in that our customers can source from us a wide range of products for
+								their fashion collections and stores.</p>
+						</div>
+					</div>
+					<div class="row text-lg">
+						<div class="col-sm-2 col-3 text-sm-left text-center left-year mt-sm-3 mt-2">
+							<div class="icon icon-twitter icon-lg bg-round">
+								<img class="" src="images/value.png" style="height: 41px;
+								margin: 14px;">
+							</div>
+						</div>
+						<div class="col-sm-9 col-8 right-text-whtree border-left pl-3">
+							<p>We keep our customers informed of our latest innovations and collections through offer
+								samples and email attachments.</p>
+						</div>
+					</div>
+					
+					<div class="row text-lg">
+						<div class="col-sm-2 col-3 text-sm-left text-center left-year mt-sm-3 mt-2">
+							<div class="icon icon-twitter icon-lg bg-round">
+								<img class="" src="images/shopping-cart.png" style="height: 41px;
+								margin: 14px;">
+							</div>
+						</div>
+						<div class="col-sm-9 col-8 right-text-whtree border-left pl-3">
+							<p>We are a company that believes in sustainable fashion and culture as much as trade. WeeVaa
+								promotes Eco friendly planet by the nature and for the nature.</p>
+						</div>
+					</div>
+				</div>
+				<div class="col-md-6">
+					
+				</div>
+			</div>
 			<!-- <p class="para-bottom-wthree">
 					WeeVaa is a sourcing agency for leading international wholesale and retail brands.</p> -->
 		</div>
-		<div class="container py-xl-5 py-lg-3 col-md-6">
-			<!-- heading title -->
+		<!-- <div class="container py-xl-5 py-lg-3 col-md-6">
+			
 			<div class="mb-lg-5 mb-sm-4 mb-3">
 				<img src="images/value.jpg" alt="" style="height: 400px;width: 100%;">
 			</div>
-		</div>
+		</div> -->
 	</div>
 
 </div>
@@ -113,6 +166,8 @@
 <!-- grids -->
 <div class="serives-agile py-5 bg-light">
 	<div class="container-fluid py-xl-5 py-lg-3">
+	<h3 class="title-wthree text-center mb-sm-5 mb-4">
+			<span class="mt-2 text-uppercase font-weight-bold">Our Top Products</span></h3>
 		<div class="row support-bottom">
 			<div class="col-lg-3 support-grid">
 				<div class="back-icon-wthree bg-white p-5" style="padding: 1rem !important;">
@@ -162,7 +217,135 @@
 	</div>
 </div>
 <!-- //grids -->
+<!-- model slider -->
+<div class="slider-middle py-5" id="models">
+	<div class="container py-xl-5 py-lg-3">
+		<h3 class="title-wthree text-center mb-sm-5 mb-4">
+			Trendy Styles<span class="mt-2 text-uppercase font-weight-bold">Our Design</span></h3>
+		<div id="myCarousel" class="carousel slide" data-ride="carousel" data-interval="4000">
+			<div class="carousel-inner row w-100 mx-auto" role="listbox">
+				<div class="carousel-item col-md-3  ">
+					<div class="panel panel-default">
+						<div class="panel-thumbnail">
+							<a href="#" title="image 1" class="thumb">
+								<img class="img-fluid mx-auto d-block" src="images\Catalog\WVW0001-5.jpg" alt="slide 1">
+							</a>
+						</div>
+					</div>
+				</div>
+				<div class="carousel-item col-md-3 ">
+					<div class="panel panel-default">
+						<div class="panel-thumbnail">
+							<a href="#" title="image 3" class="thumb">
+								<img class="img-fluid mx-auto d-block" src="images\Catalog\WVW0002-4.jpg" alt="slide 2">
+							</a>
+						</div>
+					</div>
+				</div>
+				<div class="carousel-item col-md-3 ">
+					<div class="panel panel-default">
+						<div class="panel-thumbnail">
+							<a href="#" title="image 4" class="thumb">
+								<img class="img-fluid mx-auto d-block" src="images\Catalog\WVW0002-4.jpg" alt="slide 3">
+							</a>
+						</div>
+					</div>
+				</div>
+				<div class="carousel-item col-md-3 active">
+					<div class="panel panel-default">
+						<div class="panel-thumbnail">
+							<a href="#" title="image 5" class="thumb">
+								<img class="img-fluid mx-auto d-block" src="images\Catalog\WVT0003-1.jpg" alt="slide 4">
+							</a>
+						</div>
+					</div>
+				</div>
+				<div class="carousel-item col-md-3 ">
+					<div class="panel panel-default">
+						<div class="panel-thumbnail">
+							<a href="#" title="image 6" class="thumb">
+								<img class="img-fluid mx-auto d-block" src="images\Catalog\WVT0003-2.jpg" alt="slide 5">
+							</a>
+						</div>
+					</div>
+				</div>
+				<div class="carousel-item col-md-3 ">
+					<div class="panel panel-default">
+						<div class="panel-thumbnail">
+							<a href="#" title="image 7" class="thumb">
+								<img class="img-fluid mx-auto d-block" src="images\Catalog\WVT0003-1.jpg" alt="slide 6">
+							</a>
+						</div>
+					</div>
+				</div>
+				<div class="carousel-item col-md-3 ">
+					<div class="panel panel-default">
+						<div class="panel-thumbnail">
+							<a href="#" title="image 8" class="thumb">
+								<img class="img-fluid mx-auto d-block" src="images\Catalog\WVJ0004-1.jpg" alt="slide 7">
+							</a>
+						</div>
+					</div>
+				</div>
+				<div class="carousel-item col-md-3  ">
+					<div class="panel panel-default">
+						<div class="panel-thumbnail">
+							<a href="#" title="image 2" class="thumb">
+								<img class="img-fluid mx-auto d-block" src="images\Catalog\WVW0001-1.jpg" alt="slide 8">
+							</a>
+						</div>
 
+					</div>
+				</div>
+				<div class="carousel-item col-md-3  ">
+					<div class="panel panel-default">
+						<div class="panel-thumbnail">
+							<a href="#" title="image 2" class="thumb">
+								<img class="img-fluid mx-auto d-block" src="images\Catalog\WVT0003-2.jpg" alt="slide 9">
+							</a>
+						</div>
+
+					</div>
+				</div>
+			</div>
+			<a class="carousel-control-prev" href="#myCarousel" role="button" data-slide="prev">
+				<span class="carousel-control-prev-icon" aria-hidden="true"></span>
+				<span class="sr-only">Previous</span>
+			</a>
+			<a class="carousel-control-next text-faded" href="#myCarousel" role="button" data-slide="next">
+				<span class="carousel-control-next-icon" aria-hidden="true"></span>
+				<span class="sr-only">Next</span>
+			</a>
+		</div>
+	</div>
+</div>
+<!-- //model slider -->
+<div class="models-agile py-5">
+	<div class="container py-xl-5 py-lg-3">
+		<div class="row">
+			<!-- <div class="offset-xl-2"></div> -->
+			<div class="col-xl-7 col-md-6 left-models mt-lg-5 mt-3 pt-lg-4">
+				<!-- heading title -->
+				<div class="">
+					<h3 class="title-wthree mb-3">
+						weevaa<span class="mt-2 text-uppercase font-weight-bold">Why Choose Us?</span></h3>
+					<p class="">It’s always fun to stand out from the crowd, and you might as well do it in style. At
+						Weevaa, we offer vibrant pieces and staple clothing items to fill your closet to the brim with
+						fashion and fierce attitude.</p>
+					<p>Weevaa as a Sourcing Company that believes in sustainable fashion and culture as much as trade.
+					</p>
+					<a href="about.php" class="btn button-3 button-style mt-5">Discover More</a>
+				</div>
+				<!-- //heading title -->
+			</div>
+			<div class="col-xl-5 col-md-6 right-models text-center mt-md-0 mt-5">
+				<div class="row">
+					<img src="images/about.jpg" style="height: auto; width:100%;" />
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
 <!-- best in -->
 <div class="models-agile py-5">
 	<div class="container py-xl-5 py-lg-3">
@@ -235,32 +418,7 @@
 		</div>
 	</div>
 </div>
-<div class="models-agile py-5">
-	<div class="container py-xl-5 py-lg-3">
-		<div class="row">
-			<!-- <div class="offset-xl-2"></div> -->
-			<div class="col-xl-7 col-md-6 left-models mt-lg-5 mt-3 pt-lg-4">
-				<!-- heading title -->
-				<div class="">
-					<h3 class="title-wthree mb-3">
-						weevaa<span class="mt-2 text-uppercase font-weight-bold">Why Choose Us?</span></h3>
-					<p class="">It’s always fun to stand out from the crowd, and you might as well do it in style. At
-						Weevaa, we offer vibrant pieces and staple clothing items to fill your closet to the brim with
-						fashion and fierce attitude.</p>
-					<p>Weevaa as a Sourcing Company that believes in sustainable fashion and culture as much as trade.
-					</p>
-					<a href="about.php" class="btn button-3 button-style mt-5">Discover More</a>
-				</div>
-				<!-- //heading title -->
-			</div>
-			<div class="col-xl-5 col-md-6 right-models text-center mt-md-0 mt-5">
-				<div class="row">
-					<img src="images/about.jpg" style="height: auto; width:100%;" />
-				</div>
-			</div>
-		</div>
-	</div>
-</div>
+
 <!-- //best in -->
 
 <!-- pricing -->
@@ -420,109 +578,7 @@
 		</div>
 	</div>
 </section> -->
-<!-- model slider -->
-<div class="slider-middle py-5" id="models">
-	<div class="container py-xl-5 py-lg-3">
-		<h3 class="title-wthree text-center mb-sm-5 mb-4">
-			Trendy Styles<span class="mt-2 text-uppercase font-weight-bold">Our Top Products</span></h3>
-		<div id="myCarousel" class="carousel slide" data-ride="carousel" data-interval="4000">
-			<div class="carousel-inner row w-100 mx-auto" role="listbox">
-				<div class="carousel-item col-md-3  ">
-					<div class="panel panel-default">
-						<div class="panel-thumbnail">
-							<a href="#" title="image 1" class="thumb">
-								<img class="img-fluid mx-auto d-block" src="images\Catalog\WVW0001-5.jpg" alt="slide 1">
-							</a>
-						</div>
-					</div>
-				</div>
-				<div class="carousel-item col-md-3 ">
-					<div class="panel panel-default">
-						<div class="panel-thumbnail">
-							<a href="#" title="image 3" class="thumb">
-								<img class="img-fluid mx-auto d-block" src="images\Catalog\WVW0002-4.jpg" alt="slide 2">
-							</a>
-						</div>
-					</div>
-				</div>
-				<div class="carousel-item col-md-3 ">
-					<div class="panel panel-default">
-						<div class="panel-thumbnail">
-							<a href="#" title="image 4" class="thumb">
-								<img class="img-fluid mx-auto d-block" src="images\Catalog\WVW0002-4.jpg" alt="slide 3">
-							</a>
-						</div>
-					</div>
-				</div>
-				<div class="carousel-item col-md-3 active">
-					<div class="panel panel-default">
-						<div class="panel-thumbnail">
-							<a href="#" title="image 5" class="thumb">
-								<img class="img-fluid mx-auto d-block" src="images\Catalog\WVT0003-1.jpg" alt="slide 4">
-							</a>
-						</div>
-					</div>
-				</div>
-				<div class="carousel-item col-md-3 ">
-					<div class="panel panel-default">
-						<div class="panel-thumbnail">
-							<a href="#" title="image 6" class="thumb">
-								<img class="img-fluid mx-auto d-block" src="images\Catalog\WVT0003-2.jpg" alt="slide 5">
-							</a>
-						</div>
-					</div>
-				</div>
-				<div class="carousel-item col-md-3 ">
-					<div class="panel panel-default">
-						<div class="panel-thumbnail">
-							<a href="#" title="image 7" class="thumb">
-								<img class="img-fluid mx-auto d-block" src="images\Catalog\WVT0003-1.jpg" alt="slide 6">
-							</a>
-						</div>
-					</div>
-				</div>
-				<div class="carousel-item col-md-3 ">
-					<div class="panel panel-default">
-						<div class="panel-thumbnail">
-							<a href="#" title="image 8" class="thumb">
-								<img class="img-fluid mx-auto d-block" src="images\Catalog\WVJ0004-1.jpg" alt="slide 7">
-							</a>
-						</div>
-					</div>
-				</div>
-				<div class="carousel-item col-md-3  ">
-					<div class="panel panel-default">
-						<div class="panel-thumbnail">
-							<a href="#" title="image 2" class="thumb">
-								<img class="img-fluid mx-auto d-block" src="images\Catalog\WVW0001-1.jpg" alt="slide 8">
-							</a>
-						</div>
 
-					</div>
-				</div>
-				<div class="carousel-item col-md-3  ">
-					<div class="panel panel-default">
-						<div class="panel-thumbnail">
-							<a href="#" title="image 2" class="thumb">
-								<img class="img-fluid mx-auto d-block" src="images\Catalog\WVT0003-2.jpg" alt="slide 9">
-							</a>
-						</div>
-
-					</div>
-				</div>
-			</div>
-			<a class="carousel-control-prev" href="#myCarousel" role="button" data-slide="prev">
-				<span class="carousel-control-prev-icon" aria-hidden="true"></span>
-				<span class="sr-only">Previous</span>
-			</a>
-			<a class="carousel-control-next text-faded" href="#myCarousel" role="button" data-slide="next">
-				<span class="carousel-control-next-icon" aria-hidden="true"></span>
-				<span class="sr-only">Next</span>
-			</a>
-		</div>
-	</div>
-</div>
-<!-- //model slider -->
 
 <!-- subscribe -->
 <!-- <div class="calls-agile py-5">

@@ -8,7 +8,7 @@
                         <p>JMD Megapolis, <span>Gurgaon.</span></p> -->
                         <div class="phone mt-4 pt-2">
                             <h4 class="text-light text-uppercase mb-2">Contact :</h4>
-                            <p>Phone : +91 97110 00152</p>
+                            <p>Phone : +91 8851100482</p>
                             <p>Email :
                                 <a href="mailto:info@example.com">info@weevaa.com</a>
                             </p>

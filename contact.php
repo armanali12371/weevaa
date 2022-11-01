@@ -34,7 +34,7 @@
 					</h3>
 					<p class="" style="font-size: 20px;"><span style="font-weight:700;">Address: </span> Gurgaon, Haryana
 					</p>
-					<p class="" style="font-size: 20px;"><span style="font-weight:700;">Phone: </span> +91 97110 00152
+					<p class="" style="font-size: 20px;"><span style="font-weight:700;">Phone: </span> +91 8851100482
 					</p>
 					<p class="" style="font-size: 20px;"><span style="font-weight:700;">Email: </span> info@weevaa.com
 					</p>
