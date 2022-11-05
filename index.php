@@ -4,12 +4,15 @@
 <div class="banner-agile-text">
 	<div class="container">
 		<div class="banner-text-size-wvls">
-			<h3 class="text-banner-agile text-uppercase text-white font-weight-bold">
-				End to End sourcing solution for all fashion needs.
-			</h3>
+			<!-- <h3 class="text-banner-agile text-uppercase text-white font-weight-bold" style="font-family: 'Orbitron', sans-serif !important;">
+				<span>End to End </span>sourcing solution for all fashion needs.
+			</h3> -->
 			<!-- <p class="mt-3 mb-5 banner-para-wthree"><span class="text-white font-weight-bold ">2022</span> Trending Styles,
 						Stylish Fashion.</p> -->
-			<a href="about.php" class="btn button-style">Read More</a>
+			<!-- <a href="about.php" style="
+    margin: 18px;
+    background: #ffba00;
+" class="btn button-style">Read More</a> -->
 		</div>
 	</div>
 </div>
@@ -38,13 +41,145 @@
 		</div>
 	</div>
 </div>
+
+<!-- best in -->
+<div class="models-agile py-5" style="
+    background: #f8fff6;
+">
+	<div class="container py-xl-5 py-lg-3">
+		<div class="row">
+			<!-- <div class="offset-xl-2"></div> -->
+			<div class="col-xl-4 col-md-6 left-models mt-lg-5 mt-3 pt-lg-4">
+				<!-- heading title -->
+				<div class="">
+					<h3 class="title-wthree mb-3">
+						<span class="mt-2 text-uppercase font-weight-bold">Our Services</span>
+					</h3>
+					<p class=""></p>
+					<!-- <a href="services.php" class="btn button-3 button-style mt-5">Discover More</a> -->
+				</div>
+				<!-- //heading title -->
+			</div>
+			<div class="col-xl-8 col-md-6 right-models text-center mt-md-0 mt-5">
+				<div class="row">
+					<div class="col-md-4">
+						<div class="card" style="background: #ebebeb; height: 220px;">
+							<div class="card-body py-lg-5 py-4">
+								<img src="images/ribbon.png" style="height: 68px;" class="fa fa-magic" aria-hidden="true"></img>
+								<h5 class="card-title mt-3" style="color: #5986c5;">Design & Development</h5>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-4">
+						<div class="card" style="background: #e1e8f7;">
+							<div class="card-body py-lg-5 py-4">
+								<img src="images/cloud-server.png" style="height: 68px;" class="fa fa-spinner" aria-hidden="true"></img>
+								<h5 class="card-title mt-3" style="color: #c14343;">Sourcing</h5>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-4">
+						<div class="card" style="background: #ebebeb;">
+							<div class="card-body py-lg-5 py-4">
+								<img src="images/compliance.png" style="height: 68px;" class="fa fa-female" aria-hidden="true"></img>
+								<h5 class="card-title mt-3" style="color: #0405a9;">Compliance</h5>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="row mt-4">
+					<div class="col-md-4">
+						<div class="card" style="background: #e1e8f7;">
+							<div class="card-body py-lg-5 py-4">
+								<img src="images/touch.png" style="height: 68px;" class="fa fa-paint-brush" aria-hidden="true"></i>
+								<h5 class="card-title mt-3" style="color: #B8CB3C;     font-size: 21px;">Manufacturing</h5>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-4">
+						<div class="card" style="background:#ebebeb ; height: 220px;">
+							<div class="card-body py-lg-5 py-4">
+								<img src="images/ribbon.png" style="height: 68px;" class="fa fa-magic" aria-hidden="true"></img>
+								<h5 class="card-title mt-3" style="color: #5986c5;">Quality Standard</h5>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-4">
+						<div class="card" style="background:#e1e8f7 ">
+							<div class="card-body py-lg-5 py-4">
+								<img src="images/drone.png" style="height: 68px;" class="fa fa-paint-brush" aria-hidden="true"></i>
+								<h5 class="card-title mt-3" style="color: #b23f70;">Supply Chain / Logistics</h5>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<!-- grids -->
+<div class="serives-agile py-5 bg-light">
+	<div class="container-fluid py-xl-5 py-lg-3">
+		<h3 class="title-wthree text-center mb-sm-5 mb-4">
+			<span class="mt-2 text-uppercase font-weight-bold">Our Products</span>
+		</h3>
+		<div class="row support-bottom">
+			<div class="col-lg-3 support-grid">
+				<div class="back-icon-wthree bg-white p-5" style="padding: 1rem !important;">
+					<div class="bg-light p-lg-4 p-3 icon-button-wv">
+						<img src="images/clothings-min.jpg" style="height: 187px;width: 100%;" />
+					</div>
+					<h5 class="text-dark mt-4 mb-3" style="color: #129b41 !important;">Clothing</h5>
+					<p></p>
+					<!-- <a href="about.php" class="btn button-2 text-dark p-0 mt-4">Click Here <i
+								class="fa fa-caret-right" aria-hidden="true"></i></a> -->
+				</div>
+			</div>
+			<div class="col-lg-3 support-grid my-lg-0 my-sm-5 my-4">
+				<div class="back-icon-wthree bg-white p-5" style="padding: 1rem !important;">
+					<div class="bg-light p-lg-4 p-3 icon-button-wv">
+						<img src="images/home.jpg" style="height: 187px;width: 100%;" />
+					</div>
+					<h5 class="text-dark mt-4 mb-3" style="color: #870f1a !important;">Home Furnishing</h5>
+					<p></p>
+					<!-- <a href="about.php" class="btn button-2 text-dark p-0 mt-4">Click Here <i
+								class="fa fa-caret-right" aria-hidden="true"></i></a> -->
+				</div>
+			</div>
+			<div class="col-lg-3 support-grid">
+				<div class="back-icon-wthree bg-white p-5" style="padding: 1rem !important;">
+					<div class="bg-light p-lg-4 p-3 icon-button-wv">
+						<img src="images/hand.jpg" style="height: 187px;width: 100%;" />
+					</div>
+					<h5 class="text-dark mt-4 mb-3" style="color: #bfc40b !important;">Handicrafts Products</h5>
+					<p></p>
+					<!-- <a href="about.php" class="btn button-2 text-dark p-0 mt-4">Click Here <i
+								class="fa fa-caret-right" aria-hidden="true"></i></a> -->
+				</div>
+			</div>
+			<div class="col-lg-3 support-grid">
+				<div class="back-icon-wthree bg-white p-5" style="padding: 1rem !important;">
+					<div class="bg-light p-lg-4 p-3 icon-button-wv">
+						<img src="images/leather.jpg" style="height: 187px;width: 100%;" />
+					</div>
+					<h5 class="text-dark mt-4 mb-3" style="color: #966ffe !important;">Leather</h5>
+					<p></p>
+					<!-- <a href="about.php" class="btn button-2 text-dark p-0 mt-4">Click Here <i
+								class="fa fa-caret-right" aria-hidden="true"></i></a> -->
+				</div>
+			</div>
+			<a href="product.php" style="margin-left:10px;" class="btn button-3 button-style mt-5">Explore More</a>
+		</div>
+
+	</div>
+</div>
 <div class="banner-bottom-agile text-center py-5" style="background: #eef2ed;">
 	<div class="row">
 		<div class="container py-xl-5 py-lg-3 col-md-12">
 			<!-- heading title -->
 			<div class="mb-lg-5 mb-sm-4 mb-3" style="margin-bottom: 1rem !important;">
 				<h3 class="title-wthree mb-2">
-					How<span class="mt-2 text-uppercase font-weight-bold"> we add value</span></h3>
+					<span class="mt-2 text-uppercase font-weight-bold"> Why Choose us?</span></h3>
 			</div>
 			<!-- //heading title -->
 			<!-- <h3 class="about-title mb-md-4 mb-3">Awards Winning</h3> -->
@@ -131,7 +266,7 @@
 								samples and email attachments.</p>
 						</div>
 					</div>
-					
+
 					<div class="row text-lg">
 						<div class="col-sm-2 col-3 text-sm-left text-center left-year mt-sm-3 mt-2">
 							<div class="icon icon-twitter icon-lg bg-round">
@@ -146,7 +281,7 @@
 					</div>
 				</div>
 				<div class="col-md-6">
-					
+
 				</div>
 			</div>
 			<!-- <p class="para-bottom-wthree">
@@ -163,62 +298,29 @@
 </div>
 <!-- //banner bottom -->
 
-<!-- grids -->
-<div class="serives-agile py-5 bg-light">
-	<div class="container-fluid py-xl-5 py-lg-3">
-	<h3 class="title-wthree text-center mb-sm-5 mb-4">
-			<span class="mt-2 text-uppercase font-weight-bold">Our Top Products</span></h3>
-		<div class="row support-bottom">
-			<div class="col-lg-3 support-grid">
-				<div class="back-icon-wthree bg-white p-5" style="padding: 1rem !important;">
-					<div class="bg-light p-lg-4 p-3 icon-button-wv">
-						<img src="images/clothings-min.jpg" style="height: 187px;width: 100%;" />
-					</div>
-					<h5 class="text-dark mt-4 mb-3" style="color: #129b41 !important;">Clothing</h5>
-					<p></p>
-					<!-- <a href="about.php" class="btn button-2 text-dark p-0 mt-4">Click Here <i
-								class="fa fa-caret-right" aria-hidden="true"></i></a> -->
-				</div>
-			</div>
-			<div class="col-lg-3 support-grid my-lg-0 my-sm-5 my-4">
-				<div class="back-icon-wthree bg-white p-5" style="padding: 1rem !important;">
-					<div class="bg-light p-lg-4 p-3 icon-button-wv">
-						<img src="images/home.jpg" style="height: 187px;width: 100%;" />
-					</div>
-					<h5 class="text-dark mt-4 mb-3" style="color: #870f1a !important;">Home Furnishing</h5>
-					<p></p>
-					<!-- <a href="about.php" class="btn button-2 text-dark p-0 mt-4">Click Here <i
-								class="fa fa-caret-right" aria-hidden="true"></i></a> -->
-				</div>
-			</div>
-			<div class="col-lg-3 support-grid">
-				<div class="back-icon-wthree bg-white p-5" style="padding: 1rem !important;">
-					<div class="bg-light p-lg-4 p-3 icon-button-wv">
-						<img src="images/hand.jpg" style="height: 187px;width: 100%;" />
-					</div>
-					<h5 class="text-dark mt-4 mb-3" style="color: #bfc40b !important;">Handicrafts Products</h5>
-					<p></p>
-					<!-- <a href="about.php" class="btn button-2 text-dark p-0 mt-4">Click Here <i
-								class="fa fa-caret-right" aria-hidden="true"></i></a> -->
-				</div>
-			</div>
-			<div class="col-lg-3 support-grid">
-				<div class="back-icon-wthree bg-white p-5" style="padding: 1rem !important;">
-					<div class="bg-light p-lg-4 p-3 icon-button-wv">
-						<img src="images/leather.jpg" style="height: 187px;width: 100%;" />
-					</div>
-					<h5 class="text-dark mt-4 mb-3" style="color: #966ffe !important;">Leather</h5>
-					<p></p>
-					<!-- <a href="about.php" class="btn button-2 text-dark p-0 mt-4">Click Here <i
-								class="fa fa-caret-right" aria-hidden="true"></i></a> -->
-				</div>
-			</div>
+
+<!-- //grids -->
+
+
+<div class="team py-5" id="team" style=" background: #49aca8;">
+	<div class="container py-xl-5 py-lg-3">
+
+		<div class="text-center mb-lg-5 mb-4">
+			<h3 class="title-wthree mb-2">
+				<span class="mt-2 text-uppercase font-weight-bold">About us</span>
+			</h3>
 		</div>
+		<p style="color:white; text-align:center;">
+			We inspired by the weaver bird who is known for his art work it constructs some of the most elaborate nests in the entire bird world.
+		</p>
+		<p style="color:white; text-align:center;">
+			Weavers are among the most gregarious birds in the world. They liter all weave together overlapping leaves, grass and other plant fiber.
+		</p>
+		<a href="about.php" style="margin-left:10px;" class="btn button-3 button-style mt-5">Read More</a>
 	</div>
 </div>
-<!-- //grids -->
 <!-- model slider -->
-<div class="slider-middle py-5" id="models">
+<!-- <div class="slider-middle py-5" id="models">
 	<div class="container py-xl-5 py-lg-3">
 		<h3 class="title-wthree text-center mb-sm-5 mb-4">
 			Trendy Styles<span class="mt-2 text-uppercase font-weight-bold">Our Design</span></h3>
@@ -318,106 +420,9 @@
 			</a>
 		</div>
 	</div>
-</div>
+</div> -->
 <!-- //model slider -->
-<div class="models-agile py-5">
-	<div class="container py-xl-5 py-lg-3">
-		<div class="row">
-			<!-- <div class="offset-xl-2"></div> -->
-			<div class="col-xl-7 col-md-6 left-models mt-lg-5 mt-3 pt-lg-4">
-				<!-- heading title -->
-				<div class="">
-					<h3 class="title-wthree mb-3">
-						weevaa<span class="mt-2 text-uppercase font-weight-bold">Why Choose Us?</span></h3>
-					<p class="">It’s always fun to stand out from the crowd, and you might as well do it in style. At
-						Weevaa, we offer vibrant pieces and staple clothing items to fill your closet to the brim with
-						fashion and fierce attitude.</p>
-					<p>Weevaa as a Sourcing Company that believes in sustainable fashion and culture as much as trade.
-					</p>
-					<a href="about.php" class="btn button-3 button-style mt-5">Discover More</a>
-				</div>
-				<!-- //heading title -->
-			</div>
-			<div class="col-xl-5 col-md-6 right-models text-center mt-md-0 mt-5">
-				<div class="row">
-					<img src="images/about.jpg" style="height: auto; width:100%;" />
-				</div>
-			</div>
-		</div>
-	</div>
-</div>
-<!-- best in -->
-<div class="models-agile py-5">
-	<div class="container py-xl-5 py-lg-3">
-		<div class="row">
-			<!-- <div class="offset-xl-2"></div> -->
-			<div class="col-xl-5 col-md-6 left-models mt-lg-5 mt-3 pt-lg-4">
-				<!-- heading title -->
-				<div class="">
-					<h3 class="title-wthree mb-3">
-						Look Website<span class="mt-2 text-uppercase font-weight-bold">We Are Best In</span></h3>
-					<p class=""></p>
-					<a href="about.php" class="btn button-3 button-style mt-5">Discover More</a>
-				</div>
-				<!-- //heading title -->
-			</div>
-			<div class="col-xl-7 col-md-6 right-models text-center mt-md-0 mt-5">
-				<div class="row">
-					<div class="col-md-4">
-						<div class="card" style="background: #ebebeb; height: 220px;">
-							<div class="card-body py-lg-5 py-4">
-								<img src="images/ribbon.png" style="height: 68px;" class="fa fa-magic" aria-hidden="true"></img>
-								<h5 class="card-title mt-3" style="color: #5986c5;">Design & Development</h5>
-							</div>
-						</div>
-					</div>
-					<div class="col-md-4">
-						<div class="card" style="background: #e1e8f7;">
-							<div class="card-body py-lg-5 py-4">
-								<img src="images/cloud-server.png" style="height: 68px;" class="fa fa-spinner" aria-hidden="true"></img>
-								<h5 class="card-title mt-3" style="color: #c14343;">Sourcing</h5>
-							</div>
-						</div>
-					</div>
-					<div class="col-md-4">
-						<div class="card" style="background: #ebebeb;">
-							<div class="card-body py-lg-5 py-4">
-								<img src="images/compliance.png" style="height: 68px;" class="fa fa-female" aria-hidden="true"></img>
-								<h5 class="card-title mt-3" style="color: #0405a9;">Compliance</h5>
-							</div>
-						</div>
-					</div>
-				</div>
-				<div class="row mt-4">
-					<div class="col-md-4">
-						<div class="card" style="background: #e1e8f7;">
-							<div class="card-body py-lg-5 py-4">
-								<img src="images/touch.png" style="height: 68px;" class="fa fa-paint-brush" aria-hidden="true"></i>
-								<h5 class="card-title mt-3" style="color: #B8CB3C;     font-size: 21px;">Manufacturing</h5>
-							</div>
-						</div>
-					</div>
-					<div class="col-md-4">
-						<div class="card" style="background:#ebebeb ; height: 220px;">
-							<div class="card-body py-lg-5 py-4">
-								<img src="images/ribbon.png" style="height: 68px;" class="fa fa-magic" aria-hidden="true"></img>
-								<h5 class="card-title mt-3" style="color: #5986c5;">Quality Assurance</h5>
-							</div>
-						</div>
-					</div>
-					<div class="col-md-4">
-						<div class="card" style="background:#e1e8f7 ">
-							<div class="card-body py-lg-5 py-4">
-								<img src="images/drone.png" style="height: 68px;" class="fa fa-paint-brush" aria-hidden="true"></i>
-								<h5 class="card-title mt-3" style="color: #b23f70;">Supply Chain / Logistics</h5>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
-</div>
+
 
 <!-- //best in -->
 

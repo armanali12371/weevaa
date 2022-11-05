@@ -20,9 +20,9 @@
             <!-- heading title -->
             <div class="text-center mb-lg-5 mb-4">
                 <h3 class="title-wthree mb-2">
-                   <span class="mt-2 text-uppercase font-weight-bold">Thank you for contact us</span></h3>
-                   <p>Our Team will reach sortly</p>
-                   <a href="home.php" class="btn button-style">Read More</a>
+                   <span class="mt-2 text-uppercase font-weight-bold">Thank you for contacting us</span></h3>
+                   <p>Our Team will reach you shortly</p>
+                   <a href="index.php" class="btn button-3 button-style mt-5">Back to Home</a>
             </div>
             <!-- //heading title -->
             
