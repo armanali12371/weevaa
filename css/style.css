@@ -1169,7 +1169,7 @@ button.contact-submit {
     }
 
     .main-banner-wvls {
-        border-radius: 0 0 120px 0;
+        border-radius: 0 0 0 0;
     }
 
     img.fashion-img {
@@ -1217,11 +1217,11 @@ button.contact-submit {
     }
 
     .main-banner-wvls {
-        min-height: 680px;
+        min-height: 204px;
     }
 
     footer {
-        border-radius: 0 150px 0 0;
+        border-radius: 0 0px 0 0;
     }
 }
 
