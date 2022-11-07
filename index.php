@@ -106,7 +106,7 @@
 					</div>
 					<div class="col-md-4">
 						<div class="card" style="background:#e1e8f7 ">
-							<div class="card-body py-lg-5 py-4">
+							<div class="card-body py-lg-5 py-4" style="height: 218px;">
 								<img src="images/drone.png" style="height: 68px;" class="fa fa-paint-brush" aria-hidden="true"></i>
 								<h5 class="card-title mt-3" style="color: #b23f70;">Supply Chain / Logistics</h5>
 							</div>
