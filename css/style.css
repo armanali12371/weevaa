@@ -319,7 +319,7 @@ nav.navbar.shrink .navbar-toggler {
 /* banner */
 
 .main-banner-wvls {
-    background: url(../images/home-banner.png) no-repeat center;
+    background: url(../images/home-banner.webp) no-repeat center;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
